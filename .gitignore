@@ -1,0 +1,14 @@
+# Builds
+/bin/
+*.exe
+*.test
+
+# Fichiers générés par le conteneur de dev (HOME = racine du projet)
+/.cache/
+/.config/
+.ash_history
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
